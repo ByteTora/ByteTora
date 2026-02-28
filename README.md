@@ -43,8 +43,8 @@ I believe **Code is the good drug** 💊 — Building molecules with code, imple
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteTora&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteTora&layout=compact&theme=radical&hide_border=true" height="180" alt="top-langs" />
+  <img src="https://github-readme-stats-git-master-luckiestguy.vercel.app/api?username=ByteTora&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=3600" height="180" alt="stats" />
+  <img src="https://github-readme-stats-git-master-luckiestguy.vercel.app/api/top-langs/?username=ByteTora&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook&cache_seconds=3600" height="180" alt="top-langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteTora&theme=radical&hide_border=true" height="180" alt="streak" />
 </div>
 
